@@ -7,7 +7,7 @@ body {
     background-color: #282a36;
     color: #f8f8f2;
     line-height: 1.6;
-    padding-bottom: 50px;
+    /* padding-bottom: 50px; */
 }
 
 * {
@@ -164,6 +164,7 @@ footer {
     color: #6272a4;
     margin-top: 40px;
     border-top: 1px solid #45a049;
+    margin-bottom: 0px;
 }
 
 @media (max-width: 600px) {
